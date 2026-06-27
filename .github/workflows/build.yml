@@ -10,7 +10,7 @@ on:
 jobs:
   build:
     name: Build Dorso
-    runs-on: macos-14 # Uses a modern macOS runner
+    runs-on: macos-15 # Uses a modern macOS runner
 
     steps:
     - name: Checkout repository
