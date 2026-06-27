@@ -1,5 +1,7 @@
 # [Dorso](https://dorso.app/)
 
+xattr -cr /Applications/Dorso.app
+
 **A macOS app that blurs your screen when you slouch.**
 
 Dorso monitors your posture in real-time using either your Mac's camera or AirPods motion sensors. When it detects that you're slouching, it progressively blurs your screen to remind you to sit up straight. Maintain good posture, and the blur clears instantly.
